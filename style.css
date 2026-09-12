@@ -506,7 +506,7 @@ img {
 .progress {
   width: 70%;
   height: 8px;
-  background: #e6eef5;
+  background:#0b8ef3;
   border-radius: 10px;
   margin-top: 15px;
   overflow: hidden;
@@ -515,7 +515,7 @@ img {
 .progress-bar {
   width: 65%;
   height: 100%;
-  background: #0b8ef3;
+  background:#e6eef5;
 }
 
 .quick-access {
