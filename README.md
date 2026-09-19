@@ -21,6 +21,7 @@ A modern and responsive redesign concept for DroneTV, created as part of a UI/UX
 https://divya-tamboli.github.io/UIUX_Frontend_Task_Divya_Tamboli/
 
 ## Figma Design
+https://www.figma.com/design/hmq8YqzhoiOvaGHwwg4PI8/UIUX_Frontend_Task_Divya_Assignment?node-id=0-1&t=9jesEvwTHnQVpKKt-1
 
 ## Features
 - Responsive design
